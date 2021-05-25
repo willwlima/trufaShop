@@ -1,0 +1,6 @@
+*.p12
+node_modules
+.env.homologacao
+.env.producao
+.next
+credenciais.json
